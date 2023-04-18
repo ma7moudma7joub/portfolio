@@ -70,7 +70,7 @@
     border-radius:50%;
     background-color: var(--main-color);
     position: absolute;
-    left:-30px;
+    left:-25px;
     top:50%;
     transform:translateY(-50%);
   }
