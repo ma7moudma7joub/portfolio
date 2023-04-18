@@ -22,11 +22,10 @@
  html {
     scroll-behavior: smooth;
  }
- ul {
- 	list-style: none;
-    padding-left: 15px;
-    padding-right: 15px;
- }
+    ul{ list-style: none;
+    padding-left: 6px;
+    padding-right: 6px
+  }
  a {
  	color: black;
  	text-decoration: none;
@@ -122,7 +121,7 @@
  }
   header .main-nav {
     display: flex;
-    align-items: center;
+
     flex-wrap: wrap;
     height: 72px;
  }
