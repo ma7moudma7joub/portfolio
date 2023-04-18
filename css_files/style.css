@@ -12,12 +12,10 @@
     --main-color-alt: #1787e0;
     --main-transition:0.3s;
     --main-padding:100px;
-    --section-bg-color:#ececec;;
+    --section-bg-color:#ececec;
  }
  body {
     font-family: 'Cairo', sans-serif;
-     scrollbar-face-color: var(--main-color);
-    scrollbar-color: var(--main-color);
  }
  html {
     scroll-behavior: smooth;
